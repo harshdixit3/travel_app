@@ -15,7 +15,7 @@ const Hero = () => {
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
+        <h1 className="bold-52 lg:bold-88">ExploreIt Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           we want to be each of your journey seeking the satisfaction of seeing
           the incorruptable beauty of nature. we can help you on n adeventure
